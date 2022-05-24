@@ -1,5 +1,8 @@
 ![image](https://user-images.githubusercontent.com/51045274/170120086-b0b66ecd-48fb-4ff4-a43a-c163d9a57567.png)
 
+Credits
+For the list of people who've put work into PHP, please see the [PHP credits page](https://php.net/credits.php).
+
 # AccessLogStatistic
 
 Задание:
@@ -40,7 +43,3 @@ php parser.php ./acess_log
       200 : 14,
       301 : 2 }
 }
-
-
-Credits
-For the list of people who've put work into PHP, please see the [PHP credits page](https://php.net/credits.php).
