@@ -43,3 +43,5 @@ php parser.php ./acess_log
       200 : 14,
       301 : 2 }
 }
+
+![image](https://user-images.githubusercontent.com/51045274/170120975-6efd0cd6-81b6-428b-8efe-0ee171f7927b.png)
